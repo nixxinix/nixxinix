@@ -99,7 +99,7 @@ An academic electronic medical records system project focused on database manage
 
 **Tools:** SQL, Database Design, Data Analytics, Git, and GitHub
 
-> Add links to your own project repositories above once they are available publicly.
+> [Add links to your own project repositories above once they are available publicly.](https://github.com/Cyber-Six/MDSystem)
 
 ## GitHub Statistics
 
