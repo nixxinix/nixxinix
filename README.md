@@ -1,4 +1,3 @@
- 
 <!--
   GitHub Profile README
   Repository: nixxinix/nixxinix
@@ -13,10 +12,8 @@
   </a>
 
   <p>
-    <a href="https://github.com/nixxinix">
-      <img src="https://img.shields.io/badge/GitHub-nixxinix-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
     <img src="https://img.shields.io/badge/Focus-Data%20Engineering-1F6FEB?style=for-the-badge" alt="Career focus: Data Engineering" />
+    <img src="https://img.shields.io/badge/Also%20builds-Web%20%7C%20AI%20%7C%20IoT-0D1117?style=for-the-badge" alt="Also builds web, AI, and IoT projects" />
     <img src="https://img.shields.io/badge/Status-Always%20Learning-2EA44F?style=for-the-badge" alt="Always learning" />
   </p>
 
@@ -28,7 +25,7 @@
 
 Hi! I'm **King Rey Mark Samarita**, a Computer Engineering student interested in **Data Engineering** and building reliable, data-driven systems.
 
-I'm developing my skills in Python, SQL, data warehousing, and ETL pipelines through academic work and hands-on learning projects.
+I'm developing my skills in Python, SQL, data warehousing, and ETL pipelines through academic work and hands-on learning projects. Along the way I also build full-stack web apps, computer vision models, and IoT systems.
 
 - Working on SQL data warehousing and data transformation
 - Learning data modeling, ETL/ELT, and data pipeline fundamentals
@@ -51,55 +48,86 @@ flowchart LR
     style E fill:#0D1117,stroke:#1F6FEB,color:#C9D1D9
 ```
 
-## Tech Stack
-
-**Programming & Database**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-**Data Engineering & Cloud**
-
-<p>
-  <img src="https://img.shields.io/badge/Databricks-Learning-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-Fundamentals-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-Basic%20Knowledge-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-</p>
-
 ## Featured Projects
 
-### SQL Data Warehouse
+### Data Engineering
 
-A guided learning project based on a SQL Server data warehouse tutorial, used to develop practical data engineering skills.
+| Project | What it is | Stack |
+|---|---|---|
+| **[SQL Data Warehouse](https://github.com/nixxinix/sql-data-warehouse-project)** | CRM and ERP data integrated through Bronze, Silver, and Gold layers into a fact and dimension model, with data quality checks. Follows the [Data With Baraa](https://github.com/DataWithBaraa/sql-data-warehouse-project) tutorial. | SQL Server, T-SQL |
+| **[MovieReco](https://github.com/nixxinix/MovieReco)** | Movie recommendation data engineering project. *Early setup.* | Microsoft Azure |
 
-- **Bronze Layer:** Load raw source data into staging tables
-- **Silver Layer:** Clean, standardize, and validate data
-- **Gold Layer:** Build dimension and fact tables for analytical use
-- **SQL Development:** Practice joins, stored procedures, data quality checks, and transformations
-- **Tools:** SQL Server, T-SQL, Git, and GitHub
+### Data Science and AI
 
-*This project follows a tutorial. See the project repository for the original creator's credit and any personal extensions.*
+| Project | What it is | Stack |
+|---|---|---|
+| **[Smart Road Object Detector](https://github.com/nixxinix/smart-road-object-detector)** | YOLOv8 model for 13 road-safety classes, from video frame extraction and quality filtering to a YOLO-ready dataset. | Python, OpenCV, YOLOv8 |
 
-**Original tutorial repository:** [sql-data-warehouse-project](https://github.com/DataWithBaraa/sql-data-warehouse-project)
+### Full-Stack and Web
 
-> Replace the link above with your own repository once you've published your version. Keep the original tutorial credited in your README.
+| Project | What it is | Stack |
+|---|---|---|
+| **[InternQuest](https://github.com/nixxinix/InternQuest)** | Game-like internship and OJT finder for the Philippines with skill-based matching and gap insights. | Next.js, TypeScript, Supabase |
+| **[HelmLock V2](https://github.com/nixxinix/helmlcok-v2-modular-demo)** | Configurable 3D simulator of a helmet storage and sanitation kiosk. | React, Three.js, Zustand |
+| **[TIP MDS EMR](https://github.com/nixxinix/TIP_MDS)** | Electronic medical records system for TIP Medical-Dental Services. | Django, PostgreSQL |
+| **[Product Cost Calculator](https://github.com/nixxinix/Product-Calculator)** | Production costing with profit and break-even analysis. Group project for CPE300. | Python, Flask |
+| **[Portfolio](https://github.com/nixxinix/samarita-king-rey-mark-portfolio)** | My personal portfolio site. | React, Vite |
 
-### MDSystem (EMR) - Academic Project
+### IoT and Embedded
 
-An academic electronic medical records system project focused on database management, SQL analytics, and UI/UX.
+| Project | What it is | Stack |
+|---|---|---|
+| **[Smart Farm](https://github.com/nixxinix/Smart_Farm-Embedded-Project)** | Irrigation system that monitors soil and climate and runs a pump in auto or manual mode from a web dashboard. | ESP8266, Arduino, Flask |
+
+### Team Contributions
+
+**[MDSystem (EMR)](https://github.com/Cyber-Six/MDSystem)**, an academic electronic medical records system by Cyber-Six, focused on database management, SQL analytics, and UI/UX.
 
 - Worked on database structure and organization
 - Wrote 100+ SQL queries for retrieving, organizing, and analyzing data
 - Contributed to UI/UX design to improve usability and navigation
 - Used GitHub for version control and collaboration
 
-**Tools:** SQL, Database Design, Data Analytics, Git, and GitHub
+## Tech Stack
 
-**Original tutorial repository:** [MDSystem](https://github.com/Cyber-Six/MDSystem)
+**Data Engineering and Cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Databricks-Learning-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Fundamentals-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Basic%20Knowledge-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+**Web, AI, and IoT**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ## GitHub Statistics
 
@@ -124,6 +152,9 @@ An academic electronic medical records system project focused on database manage
 <p>
   <a href="https://github.com/nixxinix">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/king-rey-mark-samarita">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
