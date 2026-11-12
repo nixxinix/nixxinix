@@ -55,7 +55,7 @@ flowchart LR
 | Project | What it is | Stack |
 |---|---|---|
 | **[SQL Data Warehouse](https://github.com/nixxinix/sql-data-warehouse-project)** | CRM and ERP data integrated through Bronze, Silver, and Gold layers into a fact and dimension model, with data quality checks. Follows the [Data With Baraa](https://github.com/DataWithBaraa/sql-data-warehouse-project) tutorial. | SQL Server, T-SQL |
-| **[MovieReco](https://github.com/nixxinix/MovieReco)** | Movie recommendation data engineering project. *Early setup.* | Microsoft Azure |
+| **[MovieReco](https://github.com/nixxinix/MovieReco)** | Movie recommendation project with datasets and processing scripts. *Early setup.* | In planning |
 
 ### Data Science and AI
 
